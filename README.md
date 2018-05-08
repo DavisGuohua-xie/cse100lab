@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
+https://travis-ci.org/DavisGuohua-xie/cse100lab.svg?branch=master
 
